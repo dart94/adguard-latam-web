@@ -3,7 +3,7 @@ import { Send, CheckCircle } from 'lucide-react'
 
 // ── Reemplaza con tu endpoint de Formspree: https://formspree.io ──
 // Crea una cuenta gratis, nuevo form, y pega el ID aquí
-const FORMSPREE_ID = 'xxxxxyyy' // ← cambia esto
+const FORMSPREE_ID = 'xvzllpnp' 
 
 type Estado = 'idle' | 'enviando' | 'enviado' | 'error'
 
